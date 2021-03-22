@@ -5,7 +5,7 @@ client.login('ENTER DISCORD KEY HERE');
 client.on("ready", () => {
   console.log("ready!");
 
-  client.user.setActivity ("Minecraft.")
+  client.user.setActivity ("SET AN ACTIVITY")
 });
 
 const prefix = "!"
